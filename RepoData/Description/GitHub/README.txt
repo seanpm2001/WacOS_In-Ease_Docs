@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+🍏️💾️🖥️🇨🖼️📖️ The official documentation source repository for the In Ease application environment included with the classic WacOS subsystem of WacOS, an open-source alternative to the classic MacOS At Ease application environment. Part of the WacOS operating system project
